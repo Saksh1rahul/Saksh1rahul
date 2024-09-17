@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakshirahul
+- 👋 Hi, I’m @Sakshi Gupta
 - 👀 I’m interested in ...computer programming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
